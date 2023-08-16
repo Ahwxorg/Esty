@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-header: 12vh;
+  --font-header-2: 4vh;
+  --font-header-3: 8vh;
+  --font-header-4: 2vh;
+  --icons: 2.5vh;
+}
